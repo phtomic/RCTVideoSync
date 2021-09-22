@@ -23,6 +23,8 @@ Instale todas as dependêcias
 npm init -y
 ```
 
+Instale as dependências do Backend-socketIO também
+
 ## ☕ Usando RCTVideoSync
 
 Para usar RCTVideoSync, siga estas etapas:
@@ -31,7 +33,11 @@ Se já fez a configuração é so rodar
 ```
 npm start
 ```
-
+No front-end React, e
+```
+node server
+```
+No Backend-SocketIO
 ## Acessos
 Compatibilidade de url's: Qualquer URL compatível com o módulo `react-player`
   
