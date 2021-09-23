@@ -20,7 +20,7 @@ Para instalar o RCTVideoSync, siga estas etapas:
 
 Instale todas as dependêcias
 ```
-npm init -y
+npm install
 ```
 
 Instale as dependências do Backend-socketIO também
